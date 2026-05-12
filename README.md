@@ -63,22 +63,12 @@ DevOps Engineer, который работает на стыке Linux-инфр�
 
 <div align="center">
 
-  <img height="42" src="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,nginx,git,github,githubactions,mysql,terraform,ansible,grafana,elasticsearch,prometheus,vscode&perline=8" alt="Основной стек" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,nginx,git,github,githubactions,mysql,terraform,ansible,grafana,elasticsearch,prometheus,vscode&perline=8" alt="Основной стек" />
 
   <br />
   <br />
 
-  <img height="34" src="https://cdn.simpleicons.org/microsoft/5E5E5E" alt="Active Directory" />
-  <img height="34" src="https://cdn.simpleicons.org/windows/0078D4" alt="Windows Server" />
-  <img height="34" src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" alt="Microsoft Exchange" />
-  <img height="34" src="https://cdn.simpleicons.org/fastapi/009688" alt="API" />
-  <img height="34" src="https://cdn.simpleicons.org/wireguard/88171A" alt="VPN" />
-  <img height="34" src="https://cdn.simpleicons.org/zabbix/D40000" alt="Zabbix" />
-  <img height="34" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="DNS" />
-  <img height="34" src="https://cdn.simpleicons.org/vmware/607078" alt="ESXi" />
-  <img height="34" src="https://cdn.simpleicons.org/proxmox/E57000" alt="Proxmox" />
-  <img height="34" src="https://cdn.simpleicons.org/elastic/005571" alt="ELK" />
-  <img height="34" src="https://cdn.simpleicons.org/codewars/B1361E" alt="Codewars" />
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,debian,cloudflare,fastapi,powershell,postgres,redis&perline=8" alt="Дополнительный стек" />
 
 </div>
 
@@ -89,16 +79,5 @@ DevOps Engineer, который работает на стыке Linux-инфр�
 <div align="center">
 
   <img src="./assets/python-runner.svg" alt="Python runner" />
-
-</div>
-
----
-
-### Коммиты
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aegis910&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&locale=ru" alt="Статистика GitHub" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Aegis910&theme=github-dark-blue&hide_border=true&locale=ru" alt="Серия коммитов GitHub" />
 
 </div>
