@@ -18,9 +18,12 @@
     .cactus.second { animation-delay: .54s; opacity: .82; }
     .cloud { fill: none; stroke: #b8b8b8; stroke-width: 2; animation: cloud 6s linear infinite; }
     .score { fill: #535353; font-family: "JetBrains Mono", "SFMono-Regular", Consolas, monospace; font-size: 15px; font-weight: 700; letter-spacing: 1px; }
-    .digit-a { animation: digitA 3s steps(1) infinite; }
-    .digit-b { animation: digitB 2s steps(1) infinite; }
-    .digit-c { animation: digitC 1s steps(1) infinite; }
+    .score-frame { opacity: 0; }
+    .score-1 { animation: score1 5s steps(1) infinite; }
+    .score-2 { animation: score2 5s steps(1) infinite; }
+    .score-3 { animation: score3 5s steps(1) infinite; }
+    .score-4 { animation: score4 5s steps(1) infinite; }
+    .score-5 { animation: score5 5s steps(1) infinite; }
 
     @keyframes jump {
       0%, 14%, 100% { transform: translateY(0); }
@@ -48,27 +51,43 @@
       46%, 100% { opacity: 0; }
     }
 
-    @keyframes digitA {
-      0% { opacity: .25; }
-      34% { opacity: .55; }
-      67% { opacity: 1; }
+    @keyframes score1 {
+      0%, 19.999% { opacity: 1; }
+      20%, 100% { opacity: 0; }
     }
 
-    @keyframes digitB {
-      0% { opacity: .45; }
-      50% { opacity: 1; }
+    @keyframes score2 {
+      0%, 19.999% { opacity: 0; }
+      20%, 39.999% { opacity: 1; }
+      40%, 100% { opacity: 0; }
     }
 
-    @keyframes digitC {
-      0% { opacity: .45; }
-      50% { opacity: 1; }
+    @keyframes score3 {
+      0%, 39.999% { opacity: 0; }
+      40%, 59.999% { opacity: 1; }
+      60%, 100% { opacity: 0; }
+    }
+
+    @keyframes score4 {
+      0%, 59.999% { opacity: 0; }
+      60%, 79.999% { opacity: 1; }
+      80%, 100% { opacity: 0; }
+    }
+
+    @keyframes score5 {
+      0%, 79.999% { opacity: 0; }
+      80%, 100% { opacity: 1; }
     }
   </style>
 
   <rect class="bg" width="760" height="150" rx="6"/>
 
   <text class="score" x="574" y="28">HI 004210</text>
-  <text class="score" x="676" y="28">00<tspan class="digit-a">7</tspan><tspan class="digit-b">9</tspan><tspan class="digit-c">0</tspan></text>
+  <text class="score score-frame score-1" x="676" y="28">000790</text>
+  <text class="score score-frame score-2" x="676" y="28">000840</text>
+  <text class="score score-frame score-3" x="676" y="28">000910</text>
+  <text class="score score-frame score-4" x="676" y="28">000980</text>
+  <text class="score score-frame score-5" x="676" y="28">001050</text>
 
   <path class="cloud" d="M72 42h42c4-14 24-14 29 0h28"/>
   <path class="cloud" style="animation-delay: -3s" d="M320 30h34c3-10 20-10 24 0h23"/>
