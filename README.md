@@ -141,10 +141,10 @@ DevOps Engineer, который работает на стыке Linux-инфр�
 <table align="center">
   <tr>
     <td align="center" width="32%">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" alt="Developer typing at computer" />
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="174" alt="Developer typing at computer" />
     </td>
     <td align="center" width="68%">
-      <img src="https://camo.githubusercontent.com/4acd12e0829d09725d24767f6d2b92f9ea946815b621ee91e90de772bf5c4a91/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f34666630373938363230383539332e356439613635346539326633362e676966" width="520" alt="Chrome Dino runner" />
+      <img src="https://camo.githubusercontent.com/4acd12e0829d09725d24767f6d2b92f9ea946815b621ee91e90de772bf5c4a91/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f34666630373938363230383539332e356439613635346539326633362e676966" height="174" alt="Chrome Dino runner" />
     </td>
   </tr>
 </table>
