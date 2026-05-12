@@ -1,71 +1,84 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,55:1f6feb,100:7c3aed&text=Aegis910&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=SysOps%20%2F%20Junior%20DevOps%20Engineer&descAlignY=58&descSize=16" alt="Aegis910 profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,55:1f6feb,100:7c3aed&text=Aegis910&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=SysOps%20%2F%20Junior%20DevOps%20Engineer&descAlignY=58&descSize=16" alt="Баннер профиля Aegis910" />
 
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=Aegis910&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Aegis910&style=for-the-badge&color=1f6feb&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Просмотры профиля" />
   <a href="#">
-    <img src="https://img.shields.io/badge/Telegram-coming%20soon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-скоро-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/VKontakte-coming%20soon-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+    <img src="https://img.shields.io/badge/VKontakte-скоро-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LeetCode-coming%20soon-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-скоро-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
   <br />
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=8FFF3D&center=true&vCenter=true&width=760&lines=Hello+there.+Thanks+for+visiting+my+profile.;I+build%2C+break%2C+fix+and+learn+systems.;Linux%2C+automation%2C+infrastructure+and+high-tech." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=8FFF3D&center=true&vCenter=true&width=860&lines=Привет.+Спасибо%2C+что+заглянул+в+мой+профиль.;Строю%2C+ломаю%2C+чиню+и+изучаю+системы.;Linux%2C+автоматизация%2C+инфраструктура+и+high-tech." alt="Печатающееся приветствие" />
 
 </div>
 
 ---
 
-### About me
+### Обо мне
 
 - Middle SysOps / Junior DevOps Engineer
-- Interested in Linux, infrastructure, automation and reliable systems
-- Gaming since childhood and still pretty active
-- Deeply curious about high-tech, engineering and science
-- Growing practical DevOps skills step by step through real projects
+- Интересуюсь Linux, инфраструктурой, автоматизацией и надежными системами
+- С детства активно увлекаюсь играми
+- Люблю high-tech, инженерный подход и науку
+- Прокачиваю DevOps-навыки на практике и через реальные задачи
 
 ---
 
-### Tech stack
+### Технологии
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,nginx,githubactions,python,postgres,cloudflare,vscode&perline=5" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,nginx,githubactions,python,postgres,cloudflare,vscode&perline=5" alt="Иконки технологий" />
 
 </div>
 
 ---
 
-### Focus now
+### Прогресс
+
+| Направления | Движение |
+|:-:|:-:|
+| **Python**<br>**Linux**<br>**DevOps**<br>**Автоматизация** | <img src="./assets/python-runner.svg" alt="Питон перепрыгивает препятствие в стиле бегущего динозавра" /> |
+
+---
+
+### Сейчас в фокусе
 
 ```text
-Systems       Linux, servers, processes, networking
-DevOps        Docker, CI/CD, deployments, observability
-Automation    Bash, Python, repeatable workflows
-Growth        Cleaner configs, safer releases, better engineering habits
+Системы       Linux, серверы, процессы, сети
+DevOps        Docker, CI/CD, деплой, наблюдаемость
+Автоматизация Bash, Python, повторяемые процессы
+Рост          Чистые конфиги, безопасные релизы, инженерные привычки
 ```
 
 ---
 
-### GitHub stats
+### Активность
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aegis910&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Aegis910&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="./assets/activity-radar.svg" alt="Радар-диаграмма активности GitHub" />
 
   <br />
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aegis910&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aegis910&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&locale=ru" alt="Статистика GitHub" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Aegis910&theme=github-dark-blue&hide_border=true&locale=ru" alt="Серия активности GitHub" />
+
+  <br />
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aegis910&layout=compact&theme=github_dark&hide_border=true&locale=ru" alt="Основные языки" />
 
 </div>
 
@@ -76,25 +89,25 @@ Growth        Cleaner configs, safer releases, better engineering habits
 <div align="center">
 
   <a href="#">
-    <img src="https://leetcard.jacoblin.cool/Aegis910?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
+    <img src="https://leetcard.jacoblin.cool/Aegis910?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="Статистика LeetCode" />
   </a>
 
 </div>
 
 ---
 
-### Contacts
+### Контакты
 
 <div align="center">
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Telegram-add%20link%20later-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram link placeholder" />
+    <img src="https://img.shields.io/badge/Telegram-добавлю%20позже-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/VK-add%20link%20later-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK link placeholder" />
+    <img src="https://img.shields.io/badge/VK-добавлю%20позже-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
   </a>
   <a href="https://github.com/Aegis910">
-    <img src="https://img.shields.io/badge/GitHub-Aegis910-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Aegis910-181717?style=for-the-badge&logo=github&logoColor=white" alt="Профиль GitHub" />
   </a>
 
 </div>
@@ -103,6 +116,6 @@ Growth        Cleaner configs, safer releases, better engineering habits
 
 <div align="center">
 
-  <sub>Thanks for stopping by. Keep systems clean, logs readable and deployments boring.</sub>
+  <sub>Спасибо, что заглянул. Держим системы чистыми, логи читаемыми, а деплой спокойным.</sub>
 
 </div>
