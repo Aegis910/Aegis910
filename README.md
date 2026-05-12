@@ -12,6 +12,9 @@
   <a href="https://vk.com/itsaa910">
     <img src="https://img.shields.io/badge/VK-itsaa910-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
   </a>
+  <a href="https://www.instagram.com/itsaa910/">
+    <img src="https://img.shields.io/badge/Instagram-itsaa910-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://leetcode.com/u/CUqiqbLnQ9/">
     <img src="https://img.shields.io/badge/LeetCode-CUqiqbLnQ9-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
